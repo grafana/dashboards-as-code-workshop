@@ -30,8 +30,8 @@ def example_dashboard() -> dashboard.Dashboard:
 
 def prometheus_version_stat() -> stat.Panel:
     return (
-        stat_panel()
-        # TODO: configure the panel
+        stat_panel().title("SkynetIsReal")
+        #TODO: configure the panel
         #
         #  * `title`: `Prometheus version`
         #  * `transparent` set to `true`
