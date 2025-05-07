@@ -7,7 +7,7 @@ RUN go mod download
 
 RUN go build -o app
 
-FROM gcr.io/distroless/static-debian12 AS release
+FROM alpine:3.19 AS release
 
 WORKDIR /
 
