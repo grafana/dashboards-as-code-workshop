@@ -15,6 +15,6 @@ COPY --from=build /app/app /app
 
 EXPOSE 8080
 
-USER nonroot:nonroot
+USER nobody:nobody
 
 ENTRYPOINT ["/app"]
