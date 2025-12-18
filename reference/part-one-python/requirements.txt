@@ -1,2 +1,2 @@
 grafana_foundation_sdk==1745704206!11.6.0
-requests==2.32.4
+requests==2.32.5
