@@ -3,7 +3,7 @@
   "packages": [
     "python312@3.12",
     "go@1.23",
-    "php@8.3",
+    "php@8.4.15",
     "php83Packages.composer@2.7",
     "yarn@1.22",
     "gradle@8.10"
