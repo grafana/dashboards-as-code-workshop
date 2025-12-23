@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/main/.schema/devbox.schema.json",
   "packages": [
     "python312@3.12",
-    "go@1.23",
+    "go@1.25",
     "php@8.3",
     "php83Packages.composer@2.7",
     "yarn@1.22",
