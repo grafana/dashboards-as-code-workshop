@@ -52,52 +52,52 @@
         }
       }
     },
-    "gradle@8.10": {
-      "last_modified": "2024-12-23T21:10:33Z",
+    "gradle@8.14.4": {
+      "last_modified": "2026-10-20T14:23:57Z",
       "plugin_version": "0.0.1",
-      "resolved": "github:NixOS/nixpkgs/de1864217bfa9b5845f465e771e0ecb48b30e02d#gradle",
+      "resolved": "github:NixOS/nixpkgs/5adc50831c259f87faeb09ddf930d43597197473#gradle",
       "source": "devbox-search",
-      "version": "8.10.2",
+      "version": "8.14.4",
       "systems": {
         "aarch64-darwin": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/qaqy7q4z090a9w5jb68ly3ly6y230bma-gradle-8.10.2",
+              "path": "/nix/store/5a8fhfjxmcg8j2r578zz7ywjl7qqd2wr-gradle-8.14.4",
               "default": true
             }
           ],
-          "store_path": "/nix/store/qaqy7q4z090a9w5jb68ly3ly6y230bma-gradle-8.10.2"
+          "store_path": "/nix/store/5a8fhfjxmcg8j2r578zz7ywjl7qqd2wr-gradle-8.14.4"
         },
         "aarch64-linux": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/41vhf9cds08zcda11ns01hspgh6gy2cq-gradle-8.10.2",
+              "path": "/nix/store/cnranlhkf5x1rhxc25krdcnz6hx5vlpq-gradle-8.14.4",
               "default": true
             }
           ],
-          "store_path": "/nix/store/41vhf9cds08zcda11ns01hspgh6gy2cq-gradle-8.10.2"
+          "store_path": "/nix/store/cnranlhkf5x1rhxc25krdcnz6hx5vlpq-gradle-8.14.4"
         },
         "x86_64-darwin": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/56r2y0g6np03kx09xdbjl0ygayaflq17-gradle-8.10.2",
+              "path": "/nix/store/kwdxjl8kvwya1j2skd7zzyjk3wx1lr2n-gradle-8.14.4",
               "default": true
             }
           ],
-          "store_path": "/nix/store/56r2y0g6np03kx09xdbjl0ygayaflq17-gradle-8.10.2"
+          "store_path": "/nix/store/kwdxjl8kvwya1j2skd7zzyjk3wx1lr2n-gradle-8.14.4"
         },
         "x86_64-linux": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/fmbj0737a49wysc93z9m68fzd4rshjlp-gradle-8.10.2",
+              "path": "/nix/store/757jj0kiimbzz08narw38gkwq47xl6in-gradle-8.14.4",
               "default": true
             }
           ],
-          "store_path": "/nix/store/fmbj0737a49wysc93z9m68fzd4rshjlp-gradle-8.10.2"
+          "store_path": "/nix/store/757jj0kiimbzz08narw38gkwq47xl6in-gradle-8.14.4"
         }
       }
     },
@@ -151,7 +151,7 @@
     },
     "php@8.3": {
       "last_modified": "2025-02-23T09:42:26Z",
-      "plugin_version": "0.0.3",
+      "plugin_version": "0.0.4",
       "resolved": "github:NixOS/nixpkgs/2d068ae5c6516b2d04562de50a58c682540de9bf#php",
       "source": "devbox-search",
       "version": "8.3.17",
@@ -200,7 +200,7 @@
     },
     "python312@3.12": {
       "last_modified": "2024-06-12T20:55:33Z",
-      "plugin_version": "0.0.4",
+      "plugin_version": "0.0.5",
       "resolved": "github:NixOS/nixpkgs/a9858885e197f984d92d7fe64e9fff6b2e488d40#python312",
       "source": "devbox-search",
       "version": "3.12.3",
