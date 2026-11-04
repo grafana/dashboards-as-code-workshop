@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@grafana/grafana-foundation-sdk": "~11.6.0-cogv0.0.x.1744895533",
-    "tslib": "~2.6"
+    "tslib": "~2.9.0"
   },
   "devDependencies": {
     "@types/node": "~20",
