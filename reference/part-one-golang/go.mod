@@ -1,9 +1,9 @@
 module github.com/grafana/dashboards-as-code-workshop/golang-starter
 
-go 1.23.4
+go 1.26.0
 
 require (
-	github.com/caarlos0/env/v11 v11.3.1
+	github.com/caarlos0/env/v11 v11.4.2
 	github.com/go-openapi/strfmt v0.23.0
 	github.com/grafana/grafana-foundation-sdk/go v0.0.0-20250417132802-1b8d81cc23db
 	github.com/grafana/grafana-openapi-client-go v0.0.0-20250108132429-8d7e1f158f65
